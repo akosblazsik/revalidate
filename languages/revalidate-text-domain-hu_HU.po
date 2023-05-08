@@ -1,0 +1,28 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Revalidate\n"
+"POT-Creation-Date: 2023-05-01 12:00+0000\n"
+"PO-Revision-Date: 2023-05-08 09:35+0200\n"
+"Last-Translator: Ákos Blázsik <akos.blazsik@gmail.com>\n"
+"Language-Team: Hungarian\n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+
+msgid "You do not have sufficient permissions"
+msgstr "Nincs elegendő jogosultságod"
+
+msgid "Slug is missing"
+msgstr "Hiányzik a bejegyzés rövidítése (slug)"
+
+msgid "An error occurred during the request"
+msgstr "Hiba történt a kérés során"
+
+msgid "Failed to revalidate post on the website's front-end."
+msgstr "A bejegyzés újraérvényesítése sikertelen a weboldal felhasználói felületén."
+
+msgid "Post revalidated on the front-end."
+msgstr "A bejegyzés újraérvényesítve a weboldal felhasználói felületén."
